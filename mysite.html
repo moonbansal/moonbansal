@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="mysite.css">
+    <title>Moon Bansal</title>
+</head>
+<body>
+    <div class="container">
+        <img src="logo.jpeg" alt="logo"/>
+        <h2>I'm Moon Bansal, a web developer</h2>
+        <p>Currently, I'm an engineering student.<br><br>
+    
+            I work on HTML and CSS projects and post them on <a href="https://github.com/moonbansal" id="github">GitHub</a> and <a href="https://codepen.io/mooniee" id="codepen">codepen</a>. Constantly<br>
+            perfecting new techniques and technologies. I also do courses on UI/UX design in my free time and post my designs on <a href="https://dribbble.com/moon_bansal" id="dribbble">Dribbble</a> . <br>
+            You can find me on <a href="https://www.linkedin.com/in/moon-bansal-996195205/" id="linkedin">LinkedIn</a> or see what I'm up to on <a href="https://twitter.com/MoonBansal22" id="twitter">Twitter</a>.<br><br>
+            
+            <p id="contact"><a href="mailto: moonbansal22@gmail.com" id="contact">Contact me</a></p> </p>
+    </div>
+</body>
+</html>
